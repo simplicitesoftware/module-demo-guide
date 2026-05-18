@@ -5,7 +5,7 @@
 	<action>upsert</action>
 	<data>
 		<mdl_name>DemoGuide</mdl_name>
-		<mdl_version>6.3</mdl_version>
+		<mdl_version>6</mdl_version>
 		<mdl_prefix>demo</mdl_prefix>
 		<mdl_url><![CDATA[{
     "origin": {"uri": "https://github.com/simplicitesoftware/module-demo-guide.git"},

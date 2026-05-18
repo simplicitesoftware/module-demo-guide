@@ -3,7 +3,12 @@
     "stylelint-config-standard",
     "stylelint-config-standard-less"
   ],
+  "plugins": [
+    "@stylistic/stylelint-plugin"
+  ],
   "rules": {
+    "@stylistic/indentation": [ 4, {"severity": "warning"} ],
+    "@stylistic/max-empty-lines": 1,
     "color-hex-length": "short",
     "declaration-empty-line-before": "never",
     "declaration-block-no-redundant-longhand-properties": null,

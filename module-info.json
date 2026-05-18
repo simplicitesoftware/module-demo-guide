@@ -1,9 +1,9 @@
 {
-    "date": "2025-09-04 18:21:18",
+    "date": "2026-05-18 22:14:07",
     "name": "DemoGuide",
     "format": "xml",
     "files": ["DemoGuide.xml"],
     "repository": {"origin": {"uri": "https://github.com/simplicitesoftware/module-demo-guide.git"}},
-    "version": "6.3",
-    "platform": "6.3.0-beta"
+    "version": "6",
+    "platform": "6.3.10-preview"
 }
