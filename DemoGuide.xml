@@ -10,7 +10,11 @@
 		<mdl_url><![CDATA[{
     "origin": {"uri": "https://github.com/simplicitesoftware/module-demo-guide.git"},
     "type": "git",
-    "branch": "v6"
+    "branch": "v6",
+    "export": {
+        "format": "xml",
+        "exploded": false
+    }
 }]]></mdl_url>
 		<mdl_type>C</mdl_type>
 		<mdl_comment><![CDATA[Introduction
