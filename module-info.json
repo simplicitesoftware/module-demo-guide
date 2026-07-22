@@ -1,9 +1,11 @@
 {
-    "date": "2026-06-02 17:49:50",
+    "date": "2026-07-22 17:25:40",
     "name": "DemoGuide",
+    "platform_revision": "6.3.13-preview",
     "format": "xml",
     "files": ["DemoGuide.xml"],
     "repository": {"origin": {"uri": "https://github.com/simplicitesoftware/module-demo-guide.git"}},
     "version": "6",
-    "platform": "6.3.11-preview"
+    "branch": "v6",
+    "platform": "6.3"
 }
